@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Privacy Policy – Fruit Cutting</title>
+<meta name="description" content="Privacy Policy for the Fruit Cutting Android game.">
+<style>
+  :root {
+    color-scheme: light dark;
+    --bg: #f6f8fc;
+    --card: #ffffff;
+    --text: #1d2433;
+    --muted: #5b6579;
+    --accent: #e8452f;
+    --border: #e1e6ef;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0f1424;
+      --card: #182038;
+      --text: #e8ecf6;
+      --muted: #a3adc4;
+      --accent: #ff7a59;
+      --border: #2a3454;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.65;
+  }
+  .wrap { max-width: 760px; margin: 0 auto; padding: 24px 16px 48px; }
+  header { text-align: center; padding: 24px 0 8px; }
+  h1 { margin: 0 0 4px; font-size: 2rem; color: var(--accent); }
+  .updated { color: var(--muted); font-size: 0.9rem; margin: 0; }
+  .card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    padding: 8px 22px 22px;
+    margin-top: 20px;
+  }
+  h2 { font-size: 1.15rem; margin: 26px 0 6px; }
+  p, li { margin: 6px 0; }
+  ul { padding-left: 22px; }
+  a { color: var(--accent); }
+  footer { text-align: center; color: var(--muted); font-size: 0.85rem; margin-top: 24px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Privacy Policy</h1>
+    <p class="updated">Fruit Cutting &middot; Last updated: November 24, 2026</p>
+  </header>
+
+  <main class="card">
+    <p>
+      This Privacy Policy explains how the Android game <strong>Fruit Cutting</strong>
+      (&ldquo;the Game&rdquo;), developed by <strong>Arvind</strong> (&ldquo;we&rdquo;, &ldquo;us&rdquo;),
+      handles information. We respect your privacy, and the Game is designed to work without collecting
+      your personal data.
+    </p>
+
+    <h2>1. Information we collect</h2>
+    <p>
+      <strong>We do not collect, store on our servers, share, or sell any personal information.</strong>
+      The Game does not require an account or sign-in, and it has no advertising, analytics, or
+      tracking tools.
+    </p>
+
+    <h2>2. Data stored on your device</h2>
+    <p>The Game saves the following only on your own device so that you can continue playing:</p>
+    <ul>
+      <li>Best scores and game statistics</li>
+      <li>Coins, unlocked blades and backgrounds</li>
+      <li>Mission progress</li>
+      <li>Your sound and vibration settings</li>
+    </ul>
+    <p>
+      This data never leaves your device through the Game and is deleted when you uninstall the Game.
+      If Android backup is enabled on your phone, Android may back up this data to your own Google
+      account. That backup is managed by Google and is not accessible to us.
+    </p>
+
+    <h2>3. Permissions</h2>
+    <ul>
+      <li><strong>Vibration:</strong> used only for haptic feedback while playing. You can turn it off in Settings.</li>
+    </ul>
+    <p>The Game does not access your contacts, photos, files, microphone, camera, or location.</p>
+
+    <h2>4. Google Play services</h2>
+    <p>
+      The Game uses Google Play to check whether a newer version of the Game is available and to
+      install updates. This is handled by Google Play on your device and is subject to the
+      <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google Privacy Policy</a>.
+      We do not receive any personal information from this process.
+    </p>
+
+    <h2>5. Links and sharing</h2>
+    <p>
+      The Settings screen contains links to this Privacy Policy, the Google Play page of the Game
+      (to rate it), a share option, and an email option. These open your browser, Google Play, or
+      another app on your device. Any information you choose to send (for example, an email to us)
+      is handled by the app you use and is used only to reply to you.
+    </p>
+
+    <h2>6. Children&rsquo;s privacy</h2>
+    <p>
+      The Game does not collect personal information from anyone, including children. It contains
+      no ads, no chat, no social features, and no in-app purchases with real money.
+    </p>
+
+    <h2>7. Data security</h2>
+    <p>
+      Because the Game does not transmit your personal data, there is no personal data on our servers
+      to protect. Game data on your device is protected by your phone&rsquo;s own security.
+    </p>
+
+    <h2>8. Your rights</h2>
+    <p>
+      Since we hold no personal data about you, there is nothing for us to access, correct, or delete.
+      You can erase all locally stored Game data at any time by clearing the Game&rsquo;s storage in
+      Android Settings or by uninstalling the Game. If you have any questions or requests, contact us
+      using the details below.
+    </p>
+
+    <h2>9. Changes to this policy</h2>
+    <p>
+      If the Game changes in the future (for example, by adding ads, online features, or purchases),
+      we will update this policy and the &ldquo;Last updated&rdquo; date above before those changes
+      are released.
+    </p>
+
+    <h2>10. Contact us</h2>
+    <p>
+      Developer: Arvind<br>
+      Email: <a href="mailto:your-email@example.com">your-email@example.com</a>
+    </p>
+  </main>
+
+  <footer>&copy; 2026 Arvind. All rights reserved.</footer>
+</div>
+</body>
+</html>
